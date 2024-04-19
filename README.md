@@ -1,4 +1,4 @@
-# Portfólio de Fotografia
+ # Portfólio de Fotografia
 
 Este é um projeto de portfólio de fotografia desenvolvido em HTML e CSS. Ele exibe imagens de diferentes tamanhos em um layout de grid responsivo.
 
@@ -24,7 +24,7 @@ O projeto consiste em dois arquivos principais:
 Para utilizar este projeto, basta clonar ou baixar o repositório e abrir o arquivo `index.html` em um navegador da web.
 
 ```bash
-git clone https://github.com/seu_usuario/gridpics.git
+git clone https://github.com/PatrckPrata/gridpics.git
 ```
 
 ## Tecnologias Utilizadas
@@ -34,7 +34,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seu_usuario).
+Este projeto foi desenvolvido por Patrick Prata(https://github.com/PatrckPrata).
 
 ## Licença
 
